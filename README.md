@@ -19,7 +19,6 @@ Une plateforme de réservation en ligne moderne, conçue pour l’auberge d’Im
 - **Backend** : JavaScript (via Firebase Functions si applicable)  
 - **Base de données** : Firebase Firestore  
 - **Authentification** : Firebase Authentication  
-- **Hébergement** : Firebase Hosting
 
 ---
 
@@ -45,21 +44,5 @@ Une plateforme de réservation en ligne moderne, conçue pour l’auberge d’Im
 
 ---
 
-## 🧱 Architecture du Projet
-
-```bash
-/imsouane-reservation
-│
-├── /public              # Fichiers statiques
-├── /src
-│   ├── /components      # Composants React
-│   ├── /pages           # Pages principales
-│   ├── /services        # Firebase & logique métier
-│   └── App.jsx
-│
-├── tailwind.config.js
-├── firebase.json
-├── package.json
-└── README.md
 
 
