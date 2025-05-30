@@ -1,4 +1,4 @@
-![Screenshot 2025-05-30 100123](https://github.com/user-attachments/assets/b08f5a9c-e310-4530-ac7e-5043b6ade2dc)# 🌊 Plateforme de Réservation - Mon Auberge d'Imsouane
+# 🌊 Plateforme de Réservation - Mon Auberge d'Imsouane
 
 Une plateforme de réservation en ligne moderne, conçue pour l’auberge d’Imsouane, située dans la région de Souss-Massa au Maroc. Ce projet vise à digitaliser les processus de réservation des petites structures hôtelières tout en améliorant l'expérience client.
 
