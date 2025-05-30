@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBHaBFD9SiMIkXYA4ztXAkShH5lElrjCyk",
+  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
   authDomain: "mohoberge-a2b3b.firebaseapp.com",
   projectId: "mohoberge-a2b3b",
   storageBucket: "mohoberge-a2b3b.firebasestorage.app",
