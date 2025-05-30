@@ -40,17 +40,10 @@ Une plateforme de réservation en ligne moderne, conçue pour l’auberge d’Im
 
 ## 📷 Aperçus
 
-
-### Page d'accueil 
 ![Screenshot 2025-05-30 100123](https://github.com/user-attachments/assets/d82cfab0-de29-49cc-9ba4-cacd5667923c)
-### Les algorithmes 
-![image](https://github.com/user-attachments/assets/12f307c7-1ec0-47fa-b864-62a79413a909)
-### Kruskal 
-![image](https://github.com/user-attachments/assets/2651f13e-9373-42e6-ac85-e3d8a34b09f0)
-### Welsh Powel
-![image](https://github.com/user-attachments/assets/0c21c0f2-5106-4ed9-9076-71485152defd)
-### Bellman Ford
-![image](https://github.com/user-attachments/assets/115757c5-b463-4b4f-bfad-9496d130bb73)
+![Screenshot 2025-05-30 100154](https://github.com/user-attachments/assets/651368bb-a387-431b-b14d-f0ba794279fd)
+
+
 
   
 ## Auteurs
