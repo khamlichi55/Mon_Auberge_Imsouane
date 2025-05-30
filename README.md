@@ -39,26 +39,23 @@ Une plateforme de réservation en ligne moderne, conçue pour l’auberge d’Im
 ---
 
 ## 📷 Aperçus
+![Screenshot 2025-05-30 100456](https://github.com/user-attachments/assets/373dd143-c6e3-438d-9001-a8dd25c3ec9d)
+![Screenshot 2025-05-30 100418](https://github.com/user-attachments/assets/5f0a84d3-2f5c-47b6-8cc9-bb4b023ba92e)
+![Screenshot 2025-05-30 100402](https://github.com/user-attachments/assets/f815f23a-6fd0-40ba-af3e-39e8c8295868)
+![Screenshot 2025-05-30 100237](https://github.com/user-attachments/assets/6f703b46-10ff-4bae-9eb8-64446b1cfeed)
+![Screenshot 2025-05-30 100154](https://github.com/user-attachments/assets/98cd1240-93a2-47b0-83c0-6b69c2e59e35)
+![Screenshot 2025-05-30 100123](https://github.com/user-attachments/assets/92887c9b-7194-4de3-87d3-8598a5a00d17)
+![Screenshot 2025-05-30 101213](https://github.com/user-attachments/assets/7657dd95-81a5-4531-b229-f1c1ea16c21a)
+![Screenshot 2025-05-30 101131](https://github.com/user-attachments/assets/7ddfa725-8365-46d7-8a21-d25113911d3f)
+![Screenshot 2025-05-30 101105](https://github.com/user-attachments/assets/3f5b0211-f709-47a0-8e5a-c7befdd39513)
+![Screenshot 2025-05-30 101033](https://github.com/user-attachments/assets/bc798b50-7e46-4e40-869a-c9ed84353bec)
+![Screenshot 2025-05-30 100954](https://github.com/user-attachments/assets/283fdbc5-f1dc-40b4-a9cf-a8f8be1127f1)
+![Screenshot 2025-05-30 100649](https://github.com/user-attachments/assets/5ccbaa53-c978-46cc-8cf3-766593a5995f)
+![Screenshot 2025-05-30 100621](https://github.com/user-attachments/assets/51d7a0b4-8d79-4c60-b5f6-77a85d49c03f)
+![Screenshot 2025-05-30 100606](https://github.com/user-attachments/assets/8f5add21-8ae3-42fb-86b7-b34b96ad9070)
+![Screenshot 2025-05-30 100537](https://github.com/user-attachments/assets/824819e5-eb62-4a99-b6b1-9d32e2e66774)
+![Screenshot 2025-05-30 100512](https://github.com/user-attachments/assets/eb84c035-4852-4a7e-9be0-7ce248c29db8)
 
-
-![Screenshot 2025-05-30 100123](https://github.com/user-attachments/assets/d02042![Screenshot 2025-05-30 100537](https://github.com/user-attachments/assets/16ba4912-a462-479a-9f67-8afd04044fa9)
-![Screenshot 2025-05-30 100512](https://github.com/user-attachments/assets/c6767ab4-1c71-4b6e-8f0b-a02d98950b11)
-![Screenshot 2025-05-30 100456](https://github.com/user-attachments/assets/9cda59d2-3247-4aea-a146-32b4c897c93a)
-![Screenshot 2025-05-30 100418](https://github.com/user-attachments/assets/f9978b6d-4f09-45ff-8804-067795e6534a)
-f4-fc45-4c50-b94d-2abd71cc50bb)
-![Screenshot 2025-05-30 101213](https://github.com/user-attachments/assets/dda04fc4-3201-4481-9ca5-6b27657e33a9)
-![Screenshot 2025-05-30 101131](https://github.com/user-attachments/assets/3be9779e-92c0-438e-ab40-96dc07c99afd)![Screenshot 2025-05-30 100649](https://github.com/user-attachments/assets/c6ace02d-b6f8-49f7-bda2-1bbc4756a3e2)
-![Screenshot 2025-05-30 100621](https://github.com/user-attachments/assets/f7d51e44-8b1a-41cf-9eb6-57eb9e56b13d)
-![Screenshot 2025-05-30 100606](https://github.com/user-attachments/assets/fdc91c16-7d81-45f1-82e2-cbba11acff05)
-
-![Screenshot 2025-05-30 101105](https://github.com/user-attachments/assets/e4551196-28d2-4746-9682-a092165edbd6)
-![Screenshot 2025-05-30 101033](https://github.com/user-attachments/assets/519a5030-2d9f-46cd-a007-7a3e8d41862a)
-![Screenshot 2025-05-30 100954](https://github.com/user-attachments/assets/2458735a-e0e1-4477-b28b-410916c26363)
-
-
-![Screenshot 2025-05-30 100402](https://github.com/user-attachments/assets/3c5d4eb9-c9f7-47ca-a1e4-0ee0e483f578)
-![Screenshot 2025-05-30 100237](https://github.com/user-attachments/assets/6dc7891a-1d7d-4c18-84f9-c313a5aeb5a9)
-![Screenshot 2025-05-30 100154](https://github.com/user-attachments/assets/3f4de6f7-c88d-4ac1-ae36-25c1c62222f1)
 
   
 ## Auteurs
