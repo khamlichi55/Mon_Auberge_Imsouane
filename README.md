@@ -56,6 +56,9 @@ Une plateforme de réservation en ligne moderne, conçue pour l’auberge d’Im
 ![Screenshot 2025-05-30 101105](https://github.com/user-attachments/assets/ce6e6cf2-a194-4293-83ca-7db65c1eb04d)
 ![Screenshot 2025-05-30 101131](https://github.com/user-attachments/assets/04422e1e-6558-4288-bfaf-b258cce83abf)
 ![Screenshot 2025-05-30 101213](https://github.com/user-attachments/assets/285f6952-a575-443b-acbf-2dec14def598)
+### ChatBot :
+![Screenshot 2025-05-30 104038](https://github.com/user-attachments/assets/13ff188e-7726-4792-ba31-21c601f877d5)
+
 
 
 ## Auteurs
